@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 📩 Contact
+title: 📩 문의하기
 permalink: /contact/
-image: '/images/103.jpg'
+image: 'images/economy.guide_Banner.webp'
 page_cover:
 ---
 
@@ -28,19 +28,19 @@ page_cover:
     <div class="form-box">
       <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
         <div class="form__group">
-          <label class="form__label screen-reader-text" for="form-name">Your name...</label>
+          <label class="form__label screen-reader-text" for="form-name">이름</label>
           <input class="form__input" id="form-name" type="text" name="name" placeholder="Your name..." required>
         </div>
         <div class="form__group">
-          <label class="form__label screen-reader-text" for="form-email">Your email...</label>
+          <label class="form__label screen-reader-text" for="form-email">답장 받을 이메일</label>
           <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Your email..." required>
         </div>
         <div class="form__group">
-          <label class="form__label screen-reader-text" for="form-text">Your message...</label>
+          <label class="form__label screen-reader-text" for="form-text">메세지를 입력하세요</label>
           <textarea class="form__input" id="form-text" name="text" rows="7" placeholder="Your message..." required></textarea>
         </div>
         <div class="form__group">
-          <button class="button button--big" type="submit">Send Message</button>
+          <button class="button button--big" type="submit">메세지 보내기</button>
         </div>
       </form>
     </div>
