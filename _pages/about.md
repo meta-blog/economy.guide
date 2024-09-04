@@ -1,25 +1,16 @@
 ---
 layout: page
-title: 👨🏻‍💻 About
-description: Dave Nixon is a highly skilled web designer with years of industry experience. His creative journey began with a fascination for blending art and technology, and he has since honed his skills to become a versatile designer who can transform ideas into captivating visual narratives.
+title: 👨🏻‍💻 소개
+description: 이 블로그는 금융, 투자, 창업 및 부동산에 관한 풍부한 정보와 인사이트를 제공하는 공간입니다. 경제 전반에 대한 폭넓은 지식을 바탕으로, 독자들이 보다 현명한 재테크와 금융 결정을 내릴 수 있도록 돕습니다.
 permalink: /about/
 image: '/images/01-2.jpg'
 page_cover: '/images/01.jpg'
 ---
 
-Dave believes that great design goes beyond aesthetics – it should tell a story, evoke emotions, and drive meaningful user interactions.
+경제는 단순한 숫자의 나열을 넘어, 이야기를 전하고 감정을 불러일으키며 의미 있는 변화를 이끌어내는 힘을 가지고 있습니다.
 
-Browse through Dave's portfolio to see his impressive body of work. From sleek corporate websites to vibrant e-commerce platforms and immersive landing pages, each project showcases Dave's ability to translate ideas into impactful visual experiences. Get inspired by his use of color palettes, typography, and innovative design elements that push the boundaries of creativity.
+이 블로그에서 다양한 경제 분석 및 투자 전략을 확인해보세요. 최신 금융 트렌드, 투자 기회, 부동산 시장 분석 등 각종 정보가 제공됩니다. 각 글은 독자들이 복잡한 경제 환경 속에서 보다 나은 결정을 내릴 수 있도록 구체적이고 실질적인 인사이트를 제공합니다.
 
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src="/images/01-3.jpg" loading="lazy">
-    <img src="/images/01-4.jpg" loading="lazy">
-    <img src="/images/01-5.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+더 나은 경제적 결정을 내리고 싶으신가요? 언제든지 문의해 주시면, 금융 및 경제에 대한 심층적인 논의를 통해 여러분의 재정적 목표를 달성하는 데 도움을 드리겠습니다.
 
-Ready to take your web design project to the next level? Contact Dave to discuss your requirements, explore design possibilities, and discover how his expertise can enhance your online presence. Dave is excited to collaborate with you and create visually stunning designs that make a lasting impact.
-
-Don't forget to connect with Dave on social media to stay updated on his latest projects, design insights, and industry trends. Follow him on Twitter, Instagram, and LinkedIn for a glimpse into his creative process and a dose of design inspiration.
+이 블로그는 여러분이 부와 경제적 자유를 추구하는 여정에 동반자가 될 준비가 되어 있습니다.
