@@ -3,8 +3,8 @@ layout: page
 title: 👨🏻‍💻 소개
 description: 이 블로그는 금융, 투자, 창업 및 부동산에 관한 풍부한 정보와 인사이트를 제공하는 공간입니다. 경제 전반에 대한 폭넓은 지식을 바탕으로, 독자들이 보다 현명한 재테크와 금융 결정을 내릴 수 있도록 돕습니다.
 permalink: /about/
-image: 'images/economy.guide_Banner.webp'
-page_cover: 
+image: 
+page_cover: images/economy.guide_Banner.webp
 ---
 
 경제는 단순한 숫자의 나열을 넘어, 이야기를 전하고 감정을 불러일으키며 의미 있는 변화를 이끌어내는 힘을 가지고 있습니다.
