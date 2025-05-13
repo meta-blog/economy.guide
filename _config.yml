@@ -1,8 +1,9 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://economy.guide" # the base hostname & protocol for your site, e.g. http://example.com
-
+baseurl: "https://economy.guide/" # the subpath of your site, e.g. /blog
+url: "https://economy.guide/" # the base hostname & protocol for your site, e.g. http://example.com
+title: "이코노미 가이드"
+languageCode: "ko-kr"
 
 #-------------------------------
 # Build Settings
