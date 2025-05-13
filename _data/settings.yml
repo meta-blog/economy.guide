@@ -26,6 +26,8 @@ menu_settings:
       url: '/'
     - title: '📔 포스트'
       url: '/blog/'
+    - title: '🏷️ 태그'
+      url: '/tags/'
 
 
 
